@@ -120,3 +120,8 @@ p {
   padding-top: 15px;
   padding-bottom: 15px;
 }
+
+#mainNav > div > a.d-none.d-lg-block.navbar-brand > img {
+  width: 75%;
+  height: 75%;
+}
