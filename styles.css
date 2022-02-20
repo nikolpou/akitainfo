@@ -1,0 +1,116 @@
+.page-top {
+  background-image: url("taustis.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  max-width: 100%;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+
+  font-size: larger;
+}
+
+.tietoa {
+  background-image: url("koiru.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  max-width: 100%;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+  padding-top: 50px;
+}
+
+.maaritelma {
+  background-image: url("taustis3.jpg");
+  background-repeat: no-repeat;
+  max-width: 100%;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+  padding-top: 50px;
+}
+
+.oma {
+  background-image: url("taustis4.jpg");
+  background-repeat: no-repeat;
+  max-width: 100%;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+  padding-top: 50px;
+  overflow: visible;
+}
+#page-top > div.col-md-3.col-sm.float-right {
+  margin-top: 50px;
+}
+
+#page-top
+  > div.container.px-4.px-lg-5
+  > div
+  > div.col-lg-8.align-self-baseline {
+  background-color: rgba(3, 28, 34, 0.726);
+  border-radius: 25px;
+}
+#page-top
+  > div.container.px-4.px-lg-5
+  > div
+  > div.col-lg-8.align-self-end
+  > h3 {
+  background-color: rgba(3, 28, 34, 0.726);
+  border-radius: 25px;
+}
+
+h3 {
+  font-size: 2.5em;
+}
+
+p {
+  color: white;
+  font-size: x-large;
+}
+
+.btn {
+  font-size: 35px;
+  border-radius: 15px;
+}
+
+#tietoa {
+  padding-bottom: 35px;
+}
+
+#tietoa > div > div {
+  padding-top: 150px;
+  background-color: rgba(3, 28, 34, 0.726);
+  border-radius: 25px;
+  padding-bottom: 25px;
+}
+
+#navbarResponsive {
+  background-color: rgba(3, 28, 34, 0.726);
+  border-radius: 25px;
+}
+
+#mainNav a {
+  color: white;
+  font-size: large;
+  font-weight: bold;
+}
+
+#maaritelma {
+  padding-bottom: 30px;
+}
+#maaritelma > div > div > div > p {
+  background-color: rgba(3, 28, 34, 0.726);
+  border-radius: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#oma > div > div > div.col-lg-8.align-self-end {
+  background-color: rgba(3, 28, 34, 0.726);
+  border-radius: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
