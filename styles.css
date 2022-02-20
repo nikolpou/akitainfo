@@ -101,6 +101,7 @@ p {
   color: white;
   font-size: large;
   font-weight: bold;
+  max-height: 35px;
 }
 
 #maaritelma {
