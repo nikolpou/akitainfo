@@ -125,3 +125,14 @@ p {
   width: 75%;
   height: 75%;
 }
+
+body > a:nth-child(2) > img {
+  position: fixed;
+}
+
+body > a:nth-child(3) > img {
+  position: fixed;
+  z-index: 1;
+  max-width: 15%;
+  height: auto;
+}
